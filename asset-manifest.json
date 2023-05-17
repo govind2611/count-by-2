@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/count-by-2/static/css/main.8de1ece0.css",
+    "main.js": "/count-by-2/static/js/main.be8cf097.js",
+    "index.html": "/count-by-2/index.html",
+    "main.8de1ece0.css.map": "/count-by-2/static/css/main.8de1ece0.css.map",
+    "main.be8cf097.js.map": "/count-by-2/static/js/main.be8cf097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de1ece0.css",
+    "static/js/main.be8cf097.js"
+  ]
+}
